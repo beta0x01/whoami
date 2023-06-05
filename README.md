@@ -3,5 +3,5 @@
 - Just a Cypersecurity Engineer at Hacker0ne
 - 🌱 I’m master in Python & kotlin, {HTML&CSS&JS}, BashScript, XML, and JSON. 
 - I'm working as a video Editor also with Premiere Pro 2023, AfterEffects 2023 and Others...
-- 📫 How to contact? you will find everything here https://linktr.ee/@i_beta5
+- 📫 How to contact? you will find everything here https://linktr.ee/i_beta5
 - Qoute "Always keep going in the world and admire everything you see, at the end God may give you the Heaven🌱"
