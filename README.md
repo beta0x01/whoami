@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @betablonga
+- 👋 Hi, I’m Ibrahim Beta @i_beta5
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python & Java
-- 📫 How to reach me on Telegram @i_beta5
-- Always keep going in the world and admire everything you see, at the end God may give you the Heaven🌱
-
-<!---
-betablonga/betablonga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Just a Cypersecurity Engineer at Hacker0ne
+- 🌱 I’m master in Python & kotlin, {HTML&CSS&JS}, BashScript, XML, and JSON. 
+- I'm working as a video Editor also with Premiere Pro 2023, AfterEffects 2023 and Others...
+- 📫 How to contact? you will find everything here https://linktr.ee/@i_beta5
+- Qoute "Always keep going in the world and admire everything you see, at the end God may give you the Heaven🌱"
