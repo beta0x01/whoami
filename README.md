@@ -1,6 +1,6 @@
 # wELLcOME
 -👋I’m Ibrahim Beta [ME!](https://github.com/itsbeta5)
-- 👀 I'm interested in Programming, Networking, Security, and Video Editing.
+- 👀 I'm interested in ==Programming, Networking, Security==, and Video Editing.
 - Current Position as a Cypersecurity **Pentester** Engineer as freelancer.
 - 🌱 I’m mastering Python, HTML & CSS, BashScript, XML, JSON, and know Kotlin & JS. 
 - I've worked as a **Video Editor** with *Premiere Pro, AfterEffects, and Others*...
