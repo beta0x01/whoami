@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ibrahim Beta @i_beta5
-- 👀 I’m interested in programming
-- Just a Cypersecurity Engineer at Hacker0ne
-- 🌱 I’m master in Python & kotlin, {HTML&CSS&JS}, BashScript, XML, and JSON. 
-- I'm working as a video Editor also with Premiere Pro 2023, AfterEffects 2023 and Others...
-- 📫 How to contact? you will find everything here https://linktr.ee/i_beta5
-- Qoute "Always keep going in the world and admire everything you see, at the end God may give you the Heaven🌱"
+- 👋 Hi, I’m Ibrahim Beta [@i_beta5](https://github.com/itsbeta5)
+- 👀 I'm interested in Programming, Video Editing, and Security.
+- Current Position as a Cypersecurity **Pentester** Engineer as freelancer.
+- 🌱 I’m mastering in Python, HTML & CSS, BashScript, XML, JSON, and know kotlin & JS. 
+- I've worked as a video Editor with Premiere Pro, AfterEffects, and Others...
+- 📫 How to contact? I prefer [LinkedIn](https://www.linkedin.com/in/ibeta5/) will find everything here [Linktree](https://linktr.ee/i_beta5)
+- Quote "Always keep going in the world and admire everything you see, at the end, God may give you Heaven🌱."
