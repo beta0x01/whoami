@@ -1,11 +1,11 @@
-# wELLcOME
--👋I’m Ibrahim Beta [ME!](https://github.com/itsbeta5)
-- 👀 I'm interested in Programming, Networking, Security, and _Video Editing_.
-- Current Position as a Cypersecurity **Pentester** Engineer as freelancer.
-- 🌱 I’m mastering Python, HTML & CSS, BashScript, XML, JSON, and know Kotlin & JS. 
-- I've worked as a **Video Editor** with *Premiere Pro, AfterEffects, and Others*...
----
-## HOW 2 CONTACT?📫
-- I prefer [LinkedIn](https://www.linkedin.com/in/ibeta5/), and you will find everything in [Linktree](https://linktr.ee/i_beta5)
-## Quote👌
+# w*ELL*c*OME*    👋
+- I’m [**BETA!**](https://github.com/i0xBeta)
+-  **Bug Hunter**, Pentester, and Red Teamer 👀
+-  Just like **Cypersecurity** Engineer ⭐
+-  fallen in love with Python, BashScript, Kotlin, Java, & JS. 🌱
+- # Alhamdulillah Always & Ever 🤲🤍
+- # 📫 How 2 contact?
+- [*LinkedIn*](https://www.linkedin.com/in/i0xbeta/)
+- [*LinkTree*](https://linktr.ee/i0xbetad)
+## Nedd a tip? 👌
   > "Always keep going in the world and admire everything you see, at the end, God may give you Heaven🌱."
